@@ -94,7 +94,11 @@ table td{
 	clear: left;
 	padding: 20px;
 }
-
+select{
+	background-color: #072B73;
+	border: thin solid #A69FA5;
+	color: #f8f8f8;
+}
 #content a { 
 	/* Color de los hipervinculos*/
 	color: #115DBF;
